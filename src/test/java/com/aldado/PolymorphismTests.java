@@ -1,4 +1,4 @@
-package com.aldado.ooPrinciples;
+package com.aldado;
 
 import com.aldado.Name;
 import com.aldado.SmallProgramTest;
